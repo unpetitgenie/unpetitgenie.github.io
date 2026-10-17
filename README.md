@@ -9,6 +9,7 @@
 
 ## 프로젝트 상태
 
+- **Fantasy Quest: Adventurer’s Guild**: v0.6.3 Steam Workshop 베타 공개. Slay the Spire 2에 모험가 길드와 의뢰 167종을 추가하는 모드이며, public-beta v0.111.0을 대상으로 합니다.
 - **페이지니 / paygenie**: 공개 출시 보류, 테스터 모집 중단
 - **MELY**: 공개 출시 대상에서 제외한 개인용 로컬 음악 플레이어 프로젝트
 - **STS2 Mod Playlist**: v0.2 Steam Workshop 공개
